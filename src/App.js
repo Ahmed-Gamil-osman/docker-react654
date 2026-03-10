@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         we are now DevOps Ya Gamed 
+         we are now Learning CICD and full pipeline with docker 
         </p>
         <a
           className="App-link"
